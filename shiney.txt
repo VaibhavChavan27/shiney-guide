@@ -7,4 +7,4 @@ group by c.customer_id;
 -----
 
 
-this is fullstack developer
+
